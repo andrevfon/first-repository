@@ -2,5 +2,5 @@ first-repository
 ================
 
 my first repository
- andre, 20
- alves fonseca
+ uilabel *andre;
+ andre.text = @"nada";
